@@ -1,0 +1,24 @@
+body{
+    height: 1080px;
+    background: linear-gradient(45deg,purple,grey,black);
+}
+
+.border{
+    border: 1px ridge slategray;
+}
+
+p{
+    color: snow;
+}
+.menu-panel{
+    background-color: transparent;
+    
+    position: fixed;
+    left: 20px;
+    top: 0;
+}
+
+.card{
+    background-color: rgba(255, 255, 255, 0.3);
+    margin: 5px;
+}
